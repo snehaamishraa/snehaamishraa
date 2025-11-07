@@ -1,4 +1,4 @@
-- <!-- ⚡ Sneha Mishra – Where Creativity Meets Code -->
+ <!-- ⚡ Sneha Mishra – Where Creativity Meets Code -->
 
 <h1 align="center">✨ Hey, I’m Sneha Mishra 👋</h1>
 
