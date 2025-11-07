@@ -33,6 +33,3 @@ I love crafting **aesthetic, user-friendly web experiences** and blending **tech
 🗄️ Databases:   MongoDB | MySQL
 🧩 Tools:       Git | VS Code | Figma | Canva | Postman
 
-snehaamishraa/snehaamishraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
