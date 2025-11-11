@@ -20,7 +20,7 @@
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Portfolio_** 🔭
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/powerup.gif" width="30px">&nbsp;Looking forward to work on **Web Development projects** &nbsp;🤝
  - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">Collaborating in various projects as an **Open Source Contributor** 
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **Data Science🌱 & ML**🔭
+ - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **AI/ML🤖 & CYBERSECURITY**👮🏻
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px"> &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
  - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **Exploring**  & currently **Exploring** my **_Own Story_** ... 📝
  - 📫 How to reach me **sneha.mishra1144@gmail.com** 💬
