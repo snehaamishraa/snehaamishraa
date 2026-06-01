@@ -6,7 +6,7 @@
   <h3 align="center">A Passionate Developer From India </h3>
  <p align="center">
    <em>
-     This is Sneha Mishra , a 3rd year undergraduate pursuing B.Tech in CSE branch <br>
+     This is Sneha Mishra , a 4th year undergraduate pursuing B.Tech in CSE branch <br>
      An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b></b>
      with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
      <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
