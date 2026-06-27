@@ -1,12 +1,6 @@
-markdown
 <h1 align="center">
-  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">
-  Hey <coders/>
-</h1>
-
-<h1 align="center">
-  I'm Sneha Mishra
-  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Sneha Mishra
 </h1>
 
 <h3 align="center">
@@ -14,113 +8,160 @@ AI Engineer • Full Stack Web Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Learning+Agentic+AI;Open+Source+Learner" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Full+Stack+Web+Developer;Python+%7C+React+%7C+Node.js;Building+AI+Applications;Learning+Agentic+AI;Open+Source+Learner"/>
+
 </p>
 
 <p align="center">
-<em>
 
-Hi, I'm <b>Sneha Mishra</b>, a final-year Computer Science undergraduate from India 🇮🇳.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-I'm passionate about building <b>AI-powered applications</b>, developing scalable <b>Full Stack Web Applications</b>, and solving <b>Data Structures & Algorithms</b> problems.
-
-Currently focusing on becoming an <b>AI Engineer</b> while strengthening my skills in <b>Python</b>, <b>JavaScript</b>, <b>React</b>, <b>Node.js</b>, <b>Next.js</b>, and <b>Agentic AI</b>.
-
-I enjoy transforming ideas into real-world products, contributing to open-source, and continuously learning modern technologies.
-
-</em>
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
+<p align="center">
 
-- 🚀 Building AI Agents & Full Stack Applications
-- 💻 Solving Data Structures & Algorithms daily
-- 🤖 Learning Generative AI & Agentic AI
-- 🌱 Exploring Backend Development with Node.js & Express
-- ⚡ Currently working on AI + Web Development Projects
-- 📚 Preparing for Software Engineering & AI roles
-- 🤝 Open to Open Source & Collaboration
-- 🎯 Goal: Become an AI Engineer
-- ✨ Love building useful products with AI
-- 📫 Reach me: **sneha.mishra1144@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=snehaamishraa&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<h2 align="left">
-Let's Connect
-<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px">
-</h2>
+<img src="https://img.shields.io/github/followers/snehaamishraa?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/snehaamishraa?style=for-the-badge"/>
+
+</p>
+
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 Final Year **B.Tech Computer Science** Student from India 🇮🇳
+
+🤖 Aspiring **AI Engineer** passionate about building intelligent applications.
+
+💻 Full Stack Web Developer with hands-on experience in modern web technologies.
+
+🧠 Consistently solving **Data Structures & Algorithms** to strengthen problem-solving skills.
+
+🚀 Currently building **AI-powered applications**, automation tools, and full-stack projects.
+
+🌱 Exploring **Agentic AI, Next.js, Backend Development, and System Design**.
+
+🤝 Open to **Internships, Open Source Contributions, and Collaboration**.
+
+⚡ I enjoy transforming ideas into real-world products that create impact.
+
+🎯 **2026 Goals**
+
+- 🧩 Solve 500+ DSA Problems
+- 🤖 Build Production-Ready AI Projects
+- 🌍 Contribute to Open Source
+- 💼 Crack an SDE / AI Engineer Internship
+- 🚀 Keep Learning Every Single Day
+
+<br clear="both">
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/snehamishraa/">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/>
-</a>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-<a href="https://github.com/snehaamishraa">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40"/>
-</a>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<a href="https://x.com/snehamishraa_">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"/>
-</a>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7F52FF?style=for-the-badge"/>
 
-<a href="https://www.instagram.com/snehacamroll/">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"/>
-</a>
-
-<a href="https://medium.com/@snehamishraa_">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.youtube.com/@snehacamroll">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="40"/>
-</a>
+<img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tools & Platforms
 
-### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
+</p>
 
-🐍 Python • JavaScript • HTML5 • CSS3
+---
 
-### Frontend
+## 📚 Currently Learning
 
-React • Next.js • Tailwind CSS
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,docker" />
+</p>
 
-### Backend
+<p>
 
-Node.js • Express.js • REST APIs
+🔹 Agentic AI
 
-### Databases
+🔹 MCP (Model Context Protocol)
 
-PostgreSQL • SQL
+🔹 LangChain
 
-### AI
+🔹 Advanced Backend Development
 
-OpenAI API • Gemini API • Prompt Engineering • AI Agents
+🔹 System Design
 
-### Tools
-
-Git • GitHub • VS Code • Postman • Vercel • npm
-
-### Currently Learning
-
-Agentic AI • LangChain • MCP • Advanced Backend Development
-
+</p>
+# 📊 GitHub Analytics
 
 <p align="center">
 
-> "Consistency beats talent when talent doesn't stay consistent."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=snehaamishraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehaamishraa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 
 <p align="center">
 
-Thanks for visiting my profile ❤️
-
-Let's build something amazing together 🚀
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=snehaamishraa&theme=tokyonight&hide_border=true"/>
 
 </p>
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehaamishraa&theme=tokyo-night&hide_border=true"/>
+
+</p>
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=snehaamishraa&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
