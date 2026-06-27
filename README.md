@@ -59,42 +59,13 @@ AI Engineer • Full Stack Web Developer • DSA Enthusiast
 
 <br clear="both">
 
-name: Generate Snake Animation
+# 🐍 Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<p align="center">
 
-permissions:
-  contents: write
+<img src="https://raw.githubusercontent.com/snehaamishraa/snehaamishraa/output/github-snake-dark.svg" alt="Snake animation"/>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#0d1117
-
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-💻 Tech Stack
+</p>
 
 ## 🚀 Languages
 
