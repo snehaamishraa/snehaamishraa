@@ -1,4 +1,4 @@
-```markdown
+markdown
 <h1 align="center">
   <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">
   Hey <coders/>
@@ -31,8 +31,6 @@ I enjoy transforming ideas into real-world products, contributing to open-source
 </em>
 </p>
 
----
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
 
 - 🚀 Building AI Agents & Full Stack Applications
@@ -45,8 +43,6 @@ I enjoy transforming ideas into real-world products, contributing to open-source
 - 🎯 Goal: Become an AI Engineer
 - ✨ Love building useful products with AI
 - 📫 Reach me: **sneha.mishra1144@gmail.com**
-
----
 
 <h2 align="left">
 Let's Connect
@@ -113,7 +109,6 @@ Git • GitHub • VS Code • Postman • Vercel • npm
 
 Agentic AI • LangChain • MCP • Advanced Backend Development
 
----
 
 <p align="center">
 
@@ -121,7 +116,6 @@ Agentic AI • LangChain • MCP • Advanced Backend Development
 
 </p>
 
----
 
 <p align="center">
 
@@ -130,4 +124,3 @@ Thanks for visiting my profile ❤️
 Let's build something amazing together 🚀
 
 </p>
-```
