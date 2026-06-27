@@ -58,6 +58,14 @@ AI Engineer • Full Stack Web Developer • DSA Enthusiast
 - 🚀 Keep Learning Every Single Day
 
 <br clear="both">
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/snehaamishraa/snehaamishraa/output/github-snake-dark.svg" alt="Snake animation"/>
+
+</p>
 name: Generate Snake Animation
 
 on:
@@ -93,14 +101,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/snehaamishraa/snehaamishraa/output/github-snake-dark.svg" alt="Snake animation"/>
-
-</p>
 
 ## 🚀 Languages
 
