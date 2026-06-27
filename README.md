@@ -1,47 +1,133 @@
-<hr>
- <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> 
- <br>
- <h1 align="center">Myself  Sneha Mishra <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
- </h1>
-  <h3 align="center">A Passionate Developer From India </h3>
- <p align="center">
-   <em>
-     This is Sneha Mishra , a 4th year undergraduate pursuing B.Tech in CSE branch <br>
-     An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b></b>
-     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
-     <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
-   </em>
- </p>
+```markdown
+<h1 align="center">
+  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">
+  Hey <coders/>
+</h1>
 
+<h1 align="center">
+  I'm Sneha Mishra
+  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
+</h1>
 
- > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<h3 align="center">
+AI Engineer • Full Stack Web Developer • DSA Enthusiast
+</h3>
 
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Web Development_** 😉
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Portfolio_** 🔭
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/powerup.gif" width="30px">&nbsp;Looking forward to work on **Web Development projects** &nbsp;🤝
- - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">Collaborating in various projects as an **Open Source Contributor** 
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **AI/ML🤖 & CYBERSECURITY**👮🏻
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px"> &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
- - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **Exploring**  & currently **Exploring** my **_Own Story_** ... 📝
- - 📫 How to reach me **sneha.mishra1144@gmail.com** 💬
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Learning+Agentic+AI;Open+Source+Learner" />
+</p>
 
+<p align="center">
+<em>
 
-<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p>  -->
+Hi, I'm <b>Sneha Mishra</b>, a final-year Computer Science undergraduate from India 🇮🇳.
 
- 
- <h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
+I'm passionate about building <b>AI-powered applications</b>, developing scalable <b>Full Stack Web Applications</b>, and solving <b>Data Structures & Algorithms</b> problems.
+
+Currently focusing on becoming an <b>AI Engineer</b> while strengthening my skills in <b>Python</b>, <b>JavaScript</b>, <b>React</b>, <b>Node.js</b>, <b>Next.js</b>, and <b>Agentic AI</b>.
+
+I enjoy transforming ideas into real-world products, contributing to open-source, and continuously learning modern technologies.
+
+</em>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
+
+- 🚀 Building AI Agents & Full Stack Applications
+- 💻 Solving Data Structures & Algorithms daily
+- 🤖 Learning Generative AI & Agentic AI
+- 🌱 Exploring Backend Development with Node.js & Express
+- ⚡ Currently working on AI + Web Development Projects
+- 📚 Preparing for Software Engineering & AI roles
+- 🤝 Open to Open Source & Collaboration
+- 🎯 Goal: Become an AI Engineer
+- ✨ Love building useful products with AI
+- 📫 Reach me: **sneha.mishra1144@gmail.com**
+
+---
+
+<h2 align="left">
+Let's Connect
+<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px">
+</h2>
 
 <p align="left">
- <a href="https://x.com/snehamishraa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snehamishra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/snehamishraa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sneha mishra" height="30" width="40" /></a>
-<a href="https://www.instagram.com/snehacamroll/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@snehacamroll" height="30" width="40" /></a>
-<a href="https://medium.com/@snehamishraa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@snehamishraa_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@snehacamroll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sneha mishra" height="30" width="40" /></a>
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> --> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!--<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>-->  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <!-- <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> --> 
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <!-- <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p> -->
-<p> 🔭 You have finally discovered my Github profile!! 
-Thanks for stopping by! 🤝</p>
+
+<a href="https://www.linkedin.com/in/snehamishraa/">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/snehaamishraa">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40"/>
+</a>
+
+<a href="https://x.com/snehamishraa_">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/snehacamroll/">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://medium.com/@snehamishraa_">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.youtube.com/@snehacamroll">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+🐍 Python • JavaScript • HTML5 • CSS3
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • REST APIs
+
+### Databases
+
+PostgreSQL • SQL
+
+### AI
+
+OpenAI API • Gemini API • Prompt Engineering • AI Agents
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Vercel • npm
+
+### Currently Learning
+
+Agentic AI • LangChain • MCP • Advanced Backend Development
+
+---
+
+<p align="center">
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+</p>
+
+---
+
+<p align="center">
+
+Thanks for visiting my profile ❤️
+
+Let's build something amazing together 🚀
+
+</p>
+```
