@@ -146,7 +146,7 @@ I enjoy transforming ideas into real-world applications and believe in learning 
 
 # 💜 Thank You for Visiting!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!+👋;Hope+you+liked+my+work!+✨;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💜"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=;Hope+you+liked+my+work!+✨;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💜"/>
 
 <br>
 
